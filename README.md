@@ -97,6 +97,8 @@ Recognition.</b></p>
 <br/>
 
 </p>
+Emailid : charu.k.bhardwaj@gmail.com
+
 <p class="western" align="justify" style="margin-bottom: 0cm; line-height: 100%">
 <i><b>Note: Please view or download Quantum-Speech.pdf file from the
 repository for complete details.</b></i></p>
