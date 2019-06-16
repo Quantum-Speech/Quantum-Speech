@@ -3,18 +3,9 @@
 <html>
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <title></title>
     <meta name="generator" content="LibreOffice 6.0.7.3 (Linux)"/>
     <meta name="created" content="2019-06-12T10:44:16"/>
     <meta name="changed" content="2019-06-16T22:39:29"/>
-    <style type="text/css">
-        @page { margin: 2cm }
-        p { margin-bottom: 0.25cm; direction: ltr; color: #000000; line-height: 115%; text-align: left; orphans: 2; widows: 2 }
-        p.western { font-family: "Liberation Serif", serif; font-size: 12pt; so-language: en-IN }
-        p.cjk { font-family: "Noto Sans CJK SC Regular"; font-size: 12pt; so-language: zh-CN }
-        p.ctl { font-family: "Lohit Devanagari"; font-size: 12pt; so-language: hi-IN }
-        a:link { so-language: zxx }
-    </style>
 </head>
 <body lang="en-IN" text="#000000" dir="ltr">
 <p class="western" align="center" style="margin-bottom: 0cm; line-height: 100%">
