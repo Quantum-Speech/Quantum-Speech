@@ -2,21 +2,21 @@
 
 <html>
 <head>
-    <meta http-equiv="content-type" content="text/html; charset=windows-1252"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <title></title>
-    <meta name="generator" content="LibreOffice 5.4.5.1 (Windows)"/>
+    <meta name="generator" content="LibreOffice 6.0.7.3 (Linux)"/>
     <meta name="created" content="2019-06-12T10:44:16"/>
-    <meta name="changed" content="2019-06-16T22:14:41"/>
+    <meta name="changed" content="2019-06-16T22:39:29"/>
     <style type="text/css">
         @page { margin: 2cm }
-        p { margin-bottom: 0.25cm; direction: ltr; color: #00000a; line-height: 115%; text-align: left; orphans: 2; widows: 2 }
+        p { margin-bottom: 0.25cm; direction: ltr; color: #000000; line-height: 115%; text-align: left; orphans: 2; widows: 2 }
         p.western { font-family: "Liberation Serif", serif; font-size: 12pt; so-language: en-IN }
         p.cjk { font-family: "Noto Sans CJK SC Regular"; font-size: 12pt; so-language: zh-CN }
         p.ctl { font-family: "Lohit Devanagari"; font-size: 12pt; so-language: hi-IN }
         a:link { so-language: zxx }
     </style>
 </head>
-<body lang="en-IN" text="#00000a" dir="ltr">
+<body lang="en-IN" text="#000000" dir="ltr">
 <p class="western" align="center" style="margin-bottom: 0cm; line-height: 100%">
 <font size="6" style="font-size: 22pt"><b>Quantum Speech</b></font></p>
 <p class="western" align="center" style="margin-bottom: 0cm; line-height: 100%">
@@ -57,8 +57,8 @@ using the AI Models-AI Adpaters) for others.</span></span></span></p>
 </p>
 <p class="western" align="justify" style="margin-bottom: 0cm; line-height: 100%">
 Nature of emotions like as superposition states as shown in the
-Plutchik&rsquo;s human emotion model given below and nature of chain
-of emotions in speech  like as entagled states motivate to treat
+Plutchik’s human emotion model given below and nature of chain of
+emotions in speech  like as entagled states motivate to treat
 emotions recognization AI models development for different natural
 languages with the help of brain like quantum computing environment. 
 </p>
@@ -94,12 +94,12 @@ Generation Process given in the diagram below and speech analystics
 software developed by the participants/developers:  
 </p>
 <p class="western" align="justify" style="margin-bottom: 0cm; line-height: 100%">
-<img src="README_html_f02c5909bcbacd42.jpg" name="Image5" align="left" width="643" height="412" border="0"/>
+<img src="README_html_665585c997288ffe.jpg" name="Image5" align="left" width="643" height="412" border="0"/>
 <br/>
 
 </p>
 <p class="western" align="justify" style="margin-bottom: 0cm; line-height: 100%">
-<b>The above process can also generate AI Models-Adapters for
+<b>The training process can also generate AI Models-Adapters for
 different fields of AI applications other than emotions
 recognization.</b></p>
 <p class="western" align="justify" style="margin-bottom: 0cm; line-height: 100%">
