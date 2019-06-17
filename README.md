@@ -103,6 +103,6 @@ Emailid : charu.k.bhardwaj@gmail.com
 
 <p class="western" align="justify" style="margin-bottom: 0cm; line-height: 100%">
 <i><b>Note: Please view or download Quantum-Speech.pdf file from the
-repository for complete details.</b></i></p>
+repository for complete details: https://github.com/Quantum-Speech/Quantum-Speech/blob/master/Quantum-Speech.pdf  </b></i></p>
 </body>
 </html>
